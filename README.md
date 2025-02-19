@@ -1,3 +1,15 @@
+Hi 
+
+Here are the commands to initialise a react app. 
+
+npx create-react-app trading-charts
+cd trading-charts
+npm install lightweight-charts
+
+This creates the boiler plate code with which you can play on further. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
